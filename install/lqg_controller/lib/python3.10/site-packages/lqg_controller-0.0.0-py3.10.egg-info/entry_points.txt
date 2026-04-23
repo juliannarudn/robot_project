@@ -1,0 +1,3 @@
+[console_scripts]
+lqg_controller = lqg_controller.lqg_controller_node:main
+
